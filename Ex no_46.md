@@ -15,11 +15,7 @@ To write a C function to traverse the linked list and display it in the followin
 ## Program:
 ```
 /*
-C function to traverse the linked list and display it in the following format.
-
-Developed by: SARATH KUMAR.K
-RegisterNumber:  212222063014
-*/
+C
 #include <stdio.h>
 #include <stdlib.h>
 
