@@ -16,13 +16,7 @@ To write a C function to search an element in the doubly linked list.
 5.If found, print its position; otherwise, indicate that it was not found.
 
 ## Program:
-```
-/*
-C function to search an element in the doubly linked list.
 
-Developed by: SARATH KUMAR.K
-RegisterNumber:  212222063014
-*/
 
 #include <stdio.h>
 #include <stdlib.h>
